@@ -9,5 +9,5 @@ public enum Category {
     TOYS,
     FURNITURE,
     TOOLS,
-    OTHER
+    GAMES, OTHER
 }

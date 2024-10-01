@@ -35,7 +35,7 @@ public class Warehouse {
                 });
     }
 
-    public List<Product> getProducts() {
+    public List<Product> getAllProducts() {
         return Collections.unmodifiableList(products);
     }
 
